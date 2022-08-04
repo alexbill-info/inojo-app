@@ -5,10 +5,10 @@
   "keywords": ["javascript", "contentful", "starter"],
   "env":{
     "CONTENTFUL_SPACE_ID":{
-        "description": "Your Contentful Space ID"
+        "description": "74iwbuinvb65"
     },
     "CONTENTFUL_ACCESS_TOKEN":{
-        "description": "Your Contentful Delivery API Access Token"
+        "description": "shXsUknppmYd1ZRi1ZzgrMNbALpPRMDANd4zeiPcSHE"
     }
   }
 }
